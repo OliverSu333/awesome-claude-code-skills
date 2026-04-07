@@ -89,6 +89,7 @@
 | [lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill) | Playwright 浏览器自动化测试技能 | 1.7k |
 | [obra/superpowers](https://github.com/obra/superpowers) | 20+ 实战技能 (含 /brainstorm, /write-plan 命令) | — |
 | [simonw/claude-skills](https://github.com/simonw/claude-skills) | Simon Willison 的技能集 (已指向官方 anthropics/skills) | — |
+| [hilberthiggs-hash/data-barrens](https://github.com/hilberthiggs-hash/data-barrens) | 异步 PvP RPG 游戏技能 — 终端对战真人、抢装备、集套装、爬天梯，支持 Docker 私服 | — |
 
 ---
 
