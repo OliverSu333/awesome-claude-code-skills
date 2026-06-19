@@ -82,6 +82,7 @@
 | [trailofbits/skills](https://github.com/trailofbits/skills) | Trail of Bits 安全技能市场 (CodeQL, Semgrep, 智能合约审计, YARA, 逆向工程) | — |
 | [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser) | 给 agent 浏览器能力的 Claude Skill | 3.6k |
 | [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) | AI 研究和工程技能开源库 | 3.3k |
+| [nowork-studio/NotFair](https://github.com/nowork-studio/NotFair) | 开源 Claude Code 营销技能包 (SEO/GEO、Google Ads MCP、Meta Ads MCP、Google Search Console MCP、Google Analytics (GA4) MCP) — 含 [seo/](https://github.com/nowork-studio/NotFair/tree/main/seo)、[google-ads/](https://github.com/nowork-studio/NotFair/tree/main/google-ads)、[meta-ads/](https://github.com/nowork-studio/NotFair/tree/main/meta-ads) 技能目录 | 2.9k |
 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 搜索 Reddit/X 最近 30 天话题的技能 | 2.6k |
 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | 66 个全栈开发专用技能 | 2.4k |
 | [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) | Skills, Agents, Commands, Hooks, Plugins 和 Marketplace 集合 | 2.4k |
