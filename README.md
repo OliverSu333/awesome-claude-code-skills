@@ -288,6 +288,11 @@ AWS KB Retrieval, Brave Search, EverArt, GitHub, GitLab, Google Drive, Google Ma
 | GenWaveLLC/svgmaker-mcp | AI SVG 生成和编辑 |
 | samuelgursky/davinci-resolve-mcp | DaVinci Resolve 视频编辑 |
 
+#### 📱 社交媒体
+| 服务器 | 描述 |
+|--------|------|
+| [Xquik MCP](https://github.com/Xquik-dev/x-twitter-scraper) | X/Twitter 搜索、用户资料、粉丝导出、媒体下载、发布流程、监控和 Webhook 自动化 |
+
 > 完整 MCP 服务器列表 (200+) 见: [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) 和 [MCP Registry](https://registry.modelcontextprotocol.io)
 
 ---
