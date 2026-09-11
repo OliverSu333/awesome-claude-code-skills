@@ -287,6 +287,7 @@ AWS KB Retrieval, Brave Search, EverArt, GitHub, GitLab, Google Drive, Google Ma
 | burningion/video-editing-mcp | 视频编辑 |
 | GenWaveLLC/svgmaker-mcp | AI SVG 生成和编辑 |
 | samuelgursky/davinci-resolve-mcp | DaVinci Resolve 视频编辑 |
+| [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | MIT 开源、本地优先的 TypeScript CLI 与 MCP 视频工具包，支持通过可编辑 plan.json 时间线合成和剪辑视频。 |
 
 > 完整 MCP 服务器列表 (200+) 见: [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) 和 [MCP Registry](https://registry.modelcontextprotocol.io)
 
