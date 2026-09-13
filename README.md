@@ -439,6 +439,7 @@ AWS KB Retrieval, Brave Search, EverArt, GitHub, GitLab, Google Drive, Google Ma
 | [dbenn8/claude-slack](https://github.com/dbenn8/claude-slack) | Claude Code 双向 Slack 集成 | 18 |
 | [claude-agent-sdk-demos/claude-agent-sdk-demos](https://github.com/claude-agent-sdk-demos/claude-agent-sdk-demos) | Claude Agent SDK 示例和演示 | 1.4k |
 | [raptor-security/raptor](https://github.com/raptor-security/raptor) | AI 安全代理 (Claude Code 集成) | 1.1k |
+| [mblode/agent-skills](https://github.com/mblode/agent-skills) | Nobody ships AI slop on purpose. These skills make sure you don't. UI audits, typography, docs, PR review, and releases. |
 
 ---
 
