@@ -155,6 +155,7 @@
 | [YishenTu/claudian](https://github.com/YishenTu/claudian) | Obsidian 插件，嵌入 Claude Code 到 vault | 2.3k |
 | [op7418/CodePilot](https://github.com/op7418/CodePilot) | Claude Code 原生桌面 GUI (Electron + Next.js) | 1.8k |
 | [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) | 远程管理 Claude Code 会话的 Web UI | 6.2k |
+| [pungme/superagent-desktop](https://github.com/pungme/superagent-desktop) | 原生 macOS 桌面应用，为 Claude Code 提供真实浏览器、iOS 模拟器和手机伴侣应用 | 26 |
 
 ---
 
