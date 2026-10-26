@@ -251,6 +251,7 @@ AWS KB Retrieval, Brave Search, EverArt, GitHub, GitLab, Google Drive, Google Ma
 | browsermcp/mcp | 自动化本地 Chrome 浏览器 |
 | browserbase/mcp-server-browserbase | 云端浏览器自动化和数据提取 |
 | executeautomation/playwright-mcp-server | Playwright 浏览器自动化 |
+| [agent-qa](https://vostride.com) | Web、Android 和 iOS 自然语言测试 MCP 服务器，具备持久记忆引擎和经验证的自我改进；[源码](https://github.com/vostride/agent-qa) |
 | agent-infra/mcp-server-browser | Puppeteer 浏览器自动化 |
 
 #### ☁️ 云平台
